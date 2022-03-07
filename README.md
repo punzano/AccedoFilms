@@ -1,4 +1,4 @@
-*** INSTRUCTIONS ***
+** INSTRUCTIONS **
 You should have Node.js installed previously (last stable version)
 Then run:
     - npm i
