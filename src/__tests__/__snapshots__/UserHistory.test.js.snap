@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserHistory component UserHistory snapshot 1`] = `
+<div
+  class="user-history-container"
+  data-testid="user-history-container"
+>
+  <header
+    class="header"
+  >
+    <h1
+      class="app-title"
+    >
+      Accedo Films History
+    </h1>
+    <a
+      href="/"
+    >
+      Back to home
+    </a>
+  </header>
+  <section
+    class="history-container"
+  >
+    <ul>
+      <li
+        class="history-entry-container"
+        data-testid="history-entry"
+      >
+        <span
+          class="history-entry-date"
+        >
+          7/4/2022 21:00:00
+        </span>
+        <span
+          class="history-entry-film-title"
+        >
+          The Bump 139
+        </span>
+      </li>
+      <li
+        class="history-entry-container"
+        data-testid="history-entry"
+      >
+        <span
+          class="history-entry-date"
+        >
+          7/4/2022 21:30:00
+        </span>
+        <span
+          class="history-entry-film-title"
+        >
+          Lisa Ling, Amber Ruffin
+        </span>
+      </li>
+    </ul>
+  </section>
+</div>
+`;

@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilmPage component FilmPage snapshot 1`] = `
+<div
+  class="films-page-container"
+  data-testid="films-page-container"
+>
+  <header
+    class="header"
+  >
+    <h1
+      class="app-title"
+    >
+      Welcome to Accedo Films
+    </h1>
+    <a
+      href="/user-history"
+    >
+      User history
+    </a>
+  </header>
+  <section
+    class="films-container"
+  >
+    <div
+      class="film-container"
+      id="2259634"
+    >
+      <img
+        alt="The Bump 139"
+        class="film-image"
+        src="https://static.tvmaze.com/uploads/images/medium_portrait/217/542886.jpg"
+      />
+      <span
+        class="film-title"
+        data-testid="film-title"
+      >
+        The Bump 139
+      </span>
+      <div
+        class="description-overlay"
+      >
+        <p
+          class="description-text"
+        >
+          WWE's The Bump is unlike any WWE show you've ever seen before, featuring a dynamic cast of hosts--led by Kayla Braxton--and WWE Superstars stopping in weekly, both as in-studio and video call-in guests.
+        </p>
+      </div>
+    </div>
+    <div
+      class="film-container"
+      id="2262125"
+    >
+      <img
+        alt="Lisa Ling, Amber Ruffin"
+        class="film-image"
+        src="https://static.tvmaze.com/uploads/images/medium_portrait/359/898286.jpg"
+      />
+      <span
+        class="film-title"
+        data-testid="film-title"
+      >
+        Lisa Ling, Amber Ruffin
+      </span>
+      <div
+        class="description-overlay"
+      >
+        <p
+          class="description-text"
+        >
+          Lisa Ling guest co-hosts; TV host Amber Ruffin.
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+`;
